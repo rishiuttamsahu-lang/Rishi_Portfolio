@@ -44,8 +44,6 @@ export default function Hero() {
         data-us-project="eL2Z56brnklSEjG2lnZa"
       ></div>
 
-      <div className="hero-bg-text">Hi! I'm Rishi</div>
-
       <div className="hero-character">
         <img src="img2.png" alt="Rishi" />
       </div>

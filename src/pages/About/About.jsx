@@ -40,7 +40,7 @@ function About() {
 
         <div className="text-about">
           <p>
-            Hey, I'm Rishi — a Computer Science student who lives at the
+            Hey, I'm Rishikesh — a Computer Science student who lives at the
             intersection of clean code and relentless curiosity. I call myself
             a vibe coder: someone who doesn't just write functions, but crafts
             experiences. Whether it's building full-stack web apps, diving into
