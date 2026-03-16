@@ -153,7 +153,7 @@ This command builds the project and publishes the `dist/` folder to the `gh-page
 **Rishikesh Uttam Sahu**
 
 - 📧 Email: [rishiuttamsahu@gmail.com](mailto:rishiuttamsahu@gmail.com)
-- 📍 Location: Pune, Maharashtra, India
+- 📍 Location: Bhiwandi, Maharashtra, India
 - 🐙 GitHub: [@rishiuttamsahu-lang](https://github.com/rishiuttamsahu-lang/)
 - 📸 Instagram: [@itz_rishi_8468](https://www.instagram.com/itz_rishi_8468/)
 
