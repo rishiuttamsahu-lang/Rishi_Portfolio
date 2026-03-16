@@ -5,6 +5,19 @@
   overflow: hidden;
 }
 
+.hero-title {
+  position: absolute;
+  top: 72%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: #f2f2f2;
+  font-size: clamp(26px, 4vw, 46px);
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
+  z-index: 2;
+}
+
 
 .buttn {
   position: absolute;
@@ -36,6 +49,14 @@
 
 /* --- RESPONSIVE HERO --- */
 @media (max-width: 768px) {
+  .hero-title {
+    left: 50%;
+    top: 68%;
+    text-align: center;
+    width: 100%;
+    padding: 0 16px;
+  }
+
   .buttn {
     left: 50%;
     top: 80%;

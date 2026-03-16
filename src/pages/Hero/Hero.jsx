@@ -45,7 +45,7 @@ export default function Hero() {
       ></div>
 
       <div className="hero-character">
-        <img src="img2.png" alt="Rishi" />
+        <img src="img2.png" alt="Portrait of Rishikesh Uttam Sahu" />
       </div>
 
       <div className="content">

@@ -24,7 +24,7 @@ function Header() {
         <header className={scrolled ? "header scroll" : "header"}>
 
             <div className="logo">
-                <h1><span>R</span>ishi</h1>
+                <span className="logo-text"><span>R</span>ishi</span>
             </div>
 
             <ul className={`links ${menuOpen ? "open" : ""}`}>

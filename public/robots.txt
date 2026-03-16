@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rishi-sahu.vercel.app/sitemap.xml

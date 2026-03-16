@@ -45,14 +45,14 @@ body {
 
 /* LOGO */
 
-.logo h1 {
+.logo .logo-text {
     color: #ddd;
     letter-spacing: 2px;
     font-size: 24px;
     font-weight: 600;
 }
 
-.logo h1 span {
+.logo .logo-text span {
     color: #777777;
 }
 
@@ -199,7 +199,7 @@ ul {
         padding: 10px 16px;
     }
 
-    .logo h1 {
+    .logo .logo-text {
         font-size: 20px;
     }
 

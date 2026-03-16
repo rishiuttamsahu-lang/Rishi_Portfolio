@@ -52,7 +52,7 @@ export default function Project() {
           <div className={`project-card ${project.wip ? "wip-card" : ""}`} key={index}>
 
             {project.img ? (
-              <img src={project.img} alt={project.title} />
+              <img src={project.img} alt={`Screenshot of ${project.title} web app`} />
             ) : (
               <div className="wip-banner">🔨 In Progress...</div>
             )}
