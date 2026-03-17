@@ -48,6 +48,8 @@ export default function Hero() {
         <img src="img2.png" alt="Portrait of Rishikesh Uttam Sahu" />
       </div>
 
+      
+
       <div className="content">
         <div className="buttn">
           <a href="#contact">Contact</a>
