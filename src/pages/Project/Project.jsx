@@ -20,7 +20,7 @@ const projects = [
     desc: "Compress PDF and image files instantly in your browser — 100% free, no sign-up, no upload. Reduce PDF size by up to 80% and compress JPG, PNG, WebP images with 3 quality levels.",
     skills: ["React.js", "Browser APIs", "JavaScript"],
     github: "https://github.com/rishiuttamsahu-lang/compact-files",
-    demo: "https://compact-files.vercel.app/",
+    demo: "https://nanocrush.vercel.app/",
     wip: false
   },
 
