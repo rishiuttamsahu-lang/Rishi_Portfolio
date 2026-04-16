@@ -38,7 +38,7 @@ function Header() {
             <ul className="icons">
                 <li><a href="https://github.com/rishiuttamsahu-lang/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} /></a></li>
                 <li><a href="https://www.instagram.com/itz_rishi_8468/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} /></a></li>
-                <li><a href="#" title="LinkedIn Coming Soon"><FontAwesomeIcon icon={faLinkedin} /></a></li>
+                <li><a href="https://www.linkedin.com/in/rishi84/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
             </ul>
 
             <button
