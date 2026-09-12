@@ -1,0 +1,78 @@
+{
+  "hero": {
+    "name": "Sahu Rishikesh",
+    "title": "CS Student | AI-Augmented Developer | Web Developer",
+    "tagline": "I build real-world applications by combining full-stack development, AI, and automation to turn ideas into working products.",
+    "cta": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/rishiuttamsahu-lang"
+      }
+    ]
+  },
+  "about": {
+    "bio": [
+      "I'm a Second-Year Computer Science student at BNN College, Bhiwandi, with a strong interest in web development, AI, and automation. My interest in coding grew through experimenting with different AI tools and discovering how much they can accelerate the development process.",
+      "I enjoy building practical projects that solve real-world problems rather than just creating projects for the sake of learning. From full-stack web applications like FYCS Study Hub to AI-powered automation projects like Jarvis, I'm constantly experimenting with new ideas and technologies.",
+      "My long-term goal is to build impactful AI-powered products, explore the capabilities of emerging technologies, and eventually work with different companies on challenging real-world projects."
+    ],
+    "currentFocus": [
+      "Full-Stack Web Development",
+      "AI & Automation",
+      "Real-World Problem Solving"
+    ],
+    "funFact": "I regularly put different AI models against each other to compare their actual capabilities and find out which AI performs best for different types of tasks."
+  },
+  "skills": {
+    "languages": [
+      { "name": "HTML", "level": "Intermediate" },
+      { "name": "CSS", "level": "Intermediate" },
+      { "name": "JavaScript", "level": "Beginner/Intermediate" },
+      { "name": "Java", "level": "Learning" }
+    ],
+    "development": [
+      "Firebase",
+      "Git",
+      "GitHub",
+      "Vercel"
+    ],
+    "aiDevelopmentTools": [
+      "ChatGPT",
+      "Claude",
+      "Gemini",
+      "Claude Code",
+      "Google AI Studio",
+      "Qwen",
+      "Zen AI",
+      "GitHub Copilot",
+      "Cursor",
+      "Antigravity",
+      "Lovable",
+      "Base44"
+    ],
+    "creativeDesignAi": [
+      "Figma AI",
+      "Canva AI",
+      "Leonardo AI"
+    ],
+    "aiAugmentedWorkflow": "I use AI-assisted development to turn ideas into functional applications by describing what I want to build, iterating with AI-generated code, testing the results, debugging issues, and continuously refining the product."
+  },
+  "education": {
+    "institution": "BNN College, Bhiwandi",
+    "degree": "Computer Science — SYCS",
+    "duration": "3-Year Undergraduate Program"
+  },
+  "certifications": [
+    {
+      "title": "AI Certificate",
+      "issuer": "IBM",
+      "note": "Exact title and relevant skills to be added once certificate file is available."
+    }
+  ],
+  "projects": [],
+  "contact": {
+    "email": "rishiuttamsahu@gmail.com",
+    "github": "https://github.com/rishiuttamsahu-lang",
+    "linkedin": null
+  }
+}
